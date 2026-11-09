@@ -25,5 +25,5 @@ Buscando aprimorar meus conhecimentos e desenvolver soluções tecnológicas.
 
 ### Contato
 
-- Site: https://macjes.com.br
-- Instagram: https://instagram.com/macjes_
+LinkedIn: https://www.linkedin.com/in/gisele-macedo-de-jesus-198265407/
+E-mail: giselemacedodejesus@outlook.com
