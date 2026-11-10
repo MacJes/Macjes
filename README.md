@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="./Desenvolvedor%20Pixel%20Art%20no%20Escrit%C3%B3rio.png" width="100%" alt="Banner MacJes"/>
+
+<img src="./Esta%C3%A7%C3%A3o%20Pixel%20MacJes.png" width="100%" alt="Banner MacJes">
 
 <h2>Olá, eu sou a Gisele!</h2>
 
